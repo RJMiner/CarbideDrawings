@@ -1,0 +1,1164 @@
+{
+    "CIRCLE_OBJECTS": [
+        {
+            "id": "{876c0dbe-8e8d-4a47-913d-dfc8dd32ced0}",
+            "position": [
+                57,
+                39
+            ],
+            "radius": 4.7629999999999999
+        },
+        {
+            "id": "{47a3e325-d55d-4de8-aa35-f1a175126b00}",
+            "position": [
+                93,
+                57
+            ],
+            "radius": 4.7629999999999999
+        },
+        {
+            "id": "{d4ed5b06-d421-44f0-8608-9e0e86f472a2}",
+            "position": [
+                150,
+                27
+            ],
+            "radius": 4.7629999999999999
+        },
+        {
+            "id": "{b9ababc5-85f3-4eee-ae30-0d124b3b7780}",
+            "position": [
+                150,
+                90
+            ],
+            "radius": 4.7629999999999999
+        },
+        {
+            "id": "{752a5743-2b7e-42d5-aa05-0e7865f75981}",
+            "position": [
+                195,
+                114
+            ],
+            "radius": 4.7629999999999999
+        },
+        {
+            "id": "{4ef314b0-8e17-481d-afc2-d9e4b8d3bb9c}",
+            "position": [
+                195,
+                51
+            ],
+            "radius": 4.7629999999999999
+        },
+        {
+            "id": "{fa672a1c-1535-4984-bf94-7cc1d53a08c3}",
+            "position": [
+                240,
+                90
+            ],
+            "radius": 4.7629999999999999
+        },
+        {
+            "id": "{3121ec95-3e0b-4a1b-a1e9-bc701390e270}",
+            "position": [
+                240,
+                27
+            ],
+            "radius": 4.7629999999999999
+        }
+    ],
+    "CURVE_OBJECTS": [
+        {
+            "control_point_1": [
+                [
+                    17.999549999999999,
+                    18.000480000000003
+                ],
+                [
+                    -0.0004500000000007276,
+                    -8.9995199999999897
+                ],
+                [
+                    -42,
+                    -39
+                ],
+                [
+                    -69.000450000000001,
+                    -26.999519999999997
+                ],
+                [
+                    -96.000450000000001,
+                    -2.9995199999999969
+                ],
+                [
+                    -99.000450000000001,
+                    27.000480000000003
+                ],
+                [
+                    -66.000450000000001,
+                    57.00048000000001
+                ],
+                [
+                    -30.000450000000001,
+                    69.00048000000001
+                ],
+                [
+                    -6,
+                    66
+                ],
+                [
+                    0,
+                    69
+                ],
+                [
+                    21,
+                    63
+                ],
+                [
+                    14.999423437499999,
+                    57.000660166015642
+                ],
+                [
+                    -6.0005765625000009,
+                    54.000660166015642
+                ],
+                [
+                    -3.0005765625000009,
+                    33.000660166015642
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "control_point_2": [
+                [
+                    -0.0004500000000007276,
+                    6.0004800000000031
+                ],
+                [
+                    -12.000450000000001,
+                    -20.99951999999999
+                ],
+                [
+                    -66,
+                    -39
+                ],
+                [
+                    -75.000450000000001,
+                    -14.999519999999997
+                ],
+                [
+                    -108.00045,
+                    21.000480000000003
+                ],
+                [
+                    -99.000450000000001,
+                    51.000480000000003
+                ],
+                [
+                    -48.000450000000001,
+                    75.00048000000001
+                ],
+                [
+                    -18.000450000000001,
+                    63.00048000000001
+                ],
+                [
+                    -6,
+                    66
+                ],
+                [
+                    12,
+                    69
+                ],
+                [
+                    15,
+                    57
+                ],
+                [
+                    -3.0005765625000009,
+                    57.000660166015642
+                ],
+                [
+                    -6.0005765625000009,
+                    36.000660166015642
+                ],
+                [
+                    14.999423437499999,
+                    33.000660166015642
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "id": "{cea340a4-fd82-4d41-9d7a-a947617f9ced}",
+            "point_type": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "points": [
+                [
+                    8.9995499999999993,
+                    12.000480000000003
+                ],
+                [
+                    -6.0004500000000007,
+                    -14.99951999999999
+                ],
+                [
+                    -54,
+                    -39
+                ],
+                [
+                    -72.000450000000001,
+                    -20.999519999999997
+                ],
+                [
+                    -102.00045,
+                    9.0004800000000031
+                ],
+                [
+                    -99.000450000000001,
+                    39.000480000000003
+                ],
+                [
+                    -57.000450000000001,
+                    66.00048000000001
+                ],
+                [
+                    -24.000450000000001,
+                    66.00048000000001
+                ],
+                [
+                    -6,
+                    66
+                ],
+                [
+                    6,
+                    69
+                ],
+                [
+                    18,
+                    60
+                ],
+                [
+                    5.9994234374999991,
+                    57.000660166015642
+                ],
+                [
+                    -6.0005765625000009,
+                    45.000660166015642
+                ],
+                [
+                    5.9994234374999991,
+                    33.000660166015642
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "position": [
+                111.00057656250002,
+                62.999339833984358
+            ]
+        },
+        {
+            "control_point_1": [
+                [
+                    0,
+                    -12
+                ],
+                [
+                    -3,
+                    12
+                ],
+                [
+                    6,
+                    42
+                ],
+                [
+                    33,
+                    36
+                ],
+                [
+                    30,
+                    6
+                ],
+                [
+                    36,
+                    -24
+                ],
+                [
+                    24,
+                    -60
+                ],
+                [
+                    -6,
+                    -54
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "control_point_2": [
+                [
+                    0,
+                    6
+                ],
+                [
+                    -3,
+                    36
+                ],
+                [
+                    24,
+                    42
+                ],
+                [
+                    33,
+                    12
+                ],
+                [
+                    30,
+                    -12
+                ],
+                [
+                    36,
+                    -54
+                ],
+                [
+                    6,
+                    -60
+                ],
+                [
+                    -6,
+                    -24
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "id": "{200c755b-de6e-4b63-8454-2c880c8ff7db}",
+            "point_type": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "points": [
+                [
+                    0,
+                    -3
+                ],
+                [
+                    -3,
+                    24
+                ],
+                [
+                    15,
+                    42
+                ],
+                [
+                    33,
+                    24
+                ],
+                [
+                    30,
+                    -3
+                ],
+                [
+                    36,
+                    -39
+                ],
+                [
+                    15,
+                    -60
+                ],
+                [
+                    -6,
+                    -39
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "position": [
+                135,
+                66
+            ]
+        },
+        {
+            "control_point_1": [
+                [
+                    0,
+                    9
+                ],
+                [
+                    3,
+                    -15
+                ],
+                [
+                    -6,
+                    -45
+                ],
+                [
+                    -33,
+                    -39
+                ],
+                [
+                    -30,
+                    -9
+                ],
+                [
+                    -36,
+                    21
+                ],
+                [
+                    -24,
+                    57
+                ],
+                [
+                    6,
+                    51
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "control_point_2": [
+                [
+                    0,
+                    -9
+                ],
+                [
+                    3,
+                    -39
+                ],
+                [
+                    -24,
+                    -45
+                ],
+                [
+                    -33,
+                    -15
+                ],
+                [
+                    -30,
+                    9
+                ],
+                [
+                    -36,
+                    51
+                ],
+                [
+                    -6,
+                    57
+                ],
+                [
+                    6,
+                    21
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "id": "{f38f7fe6-c4b7-41ac-a3c0-9cc5de969805}",
+            "point_type": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    3,
+                    -27
+                ],
+                [
+                    -15,
+                    -45
+                ],
+                [
+                    -33,
+                    -27
+                ],
+                [
+                    -30,
+                    0
+                ],
+                [
+                    -36,
+                    36
+                ],
+                [
+                    -15,
+                    57
+                ],
+                [
+                    6,
+                    36
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "position": [
+                210,
+                78
+            ]
+        },
+        {
+            "control_point_1": [
+                [
+                    0,
+                    -9
+                ],
+                [
+                    -3,
+                    15
+                ],
+                [
+                    6,
+                    45
+                ],
+                [
+                    33,
+                    39
+                ],
+                [
+                    30,
+                    9
+                ],
+                [
+                    36,
+                    -21
+                ],
+                [
+                    24,
+                    -57
+                ],
+                [
+                    -6,
+                    -51
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "control_point_2": [
+                [
+                    0,
+                    9
+                ],
+                [
+                    -3,
+                    39
+                ],
+                [
+                    24,
+                    45
+                ],
+                [
+                    33,
+                    15
+                ],
+                [
+                    30,
+                    -9
+                ],
+                [
+                    36,
+                    -51
+                ],
+                [
+                    6,
+                    -57
+                ],
+                [
+                    -6,
+                    -21
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "id": "{9996db55-d729-40f3-aba4-9eff0cf800ce}",
+            "point_type": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -3,
+                    27
+                ],
+                [
+                    15,
+                    45
+                ],
+                [
+                    33,
+                    27
+                ],
+                [
+                    30,
+                    0
+                ],
+                [
+                    36,
+                    -36
+                ],
+                [
+                    15,
+                    -57
+                ],
+                [
+                    -6,
+                    -36
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "position": [
+                225,
+                63
+            ]
+        }
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": true,
+        "HEIGHT": 140,
+        "MACHINE": "Shapeoko XL",
+        "MATERIAL": "Soft",
+        "RETRACT": 12,
+        "THICKNESS": 19,
+        "WIDTH": 266,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 3,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": false,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Skull Pivot",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 586.74000000000001,
+                "plungerate": 293.37,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 1.5,
+            "stepover": 1.429,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{fac427de-6bd6-43c5-ad60-91630265e753}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": false,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Jaw Pivot",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 586.74000000000001,
+                "plungerate": 293.37,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 1.5,
+            "stepover": 1.429,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{96630ceb-c852-4774-8ce1-7b2e8e342196}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Bone Pivot 6",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 586.74000000000103,
+                "plungerate": 293.37000000000052,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.88250086494068969,
+            "stepover": 1.42875,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{4a5da08a-8fa1-4ae9-af3c-c19ef7697dc3}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Bone Pivot 5",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 586.74000000000103,
+                "plungerate": 293.37000000000052,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.88250086494068969,
+            "stepover": 1.42875,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{7f9d4dd0-f4d1-4933-8dd1-889ce98d2dd4}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Bone Pivot 4",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 586.74000000000103,
+                "plungerate": 293.37000000000052,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.88250086494068969,
+            "stepover": 1.42875,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{0207b94f-1365-4d8f-b110-f7174e9cc03c}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Bone Pivot 3",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 586.74000000000103,
+                "plungerate": 293.37000000000052,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.88250086494068969,
+            "stepover": 1.42875,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{9957a2bc-adf6-4906-9284-459b8daff44a}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Bone Pivot 2",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 586.74000000000103,
+                "plungerate": 293.37000000000052,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.88250086494068969,
+            "stepover": 1.42875,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{412e6498-a9f6-4785-8c77-e3fa0bf05d46}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Bone Pivot 1",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 586.74000000000103,
+                "plungerate": 293.37000000000052,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.88250086494068969,
+            "stepover": 1.42875,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{335a3f91-f587-41d6-97d5-2c9ee2db6294}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Bone 1",
+            "ofset_dir": 1,
+            "speeds": {
+                "feedrate": 586.74000000000103,
+                "plungerate": 293.37000000000052,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.88250086494068969,
+            "stepover": 1.42875,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{e02ce755-a427-4447-bf4e-b125b033747d}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Bone 2",
+            "ofset_dir": 1,
+            "speeds": {
+                "feedrate": 586.74000000000103,
+                "plungerate": 293.37000000000052,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.88250086494068969,
+            "stepover": 1.42875,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{f15fb335-b2f4-4c47-99c6-dd982b8b3ff6}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Bone 3",
+            "ofset_dir": 1,
+            "speeds": {
+                "feedrate": 586.74000000000103,
+                "plungerate": 293.37000000000052,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.88250086494068969,
+            "stepover": 1.42875,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{69cb0559-d95b-425a-ba59-b374c11d653f}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": false,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19,
+            "name": "Skull",
+            "ofset_dir": 1,
+            "speeds": {
+                "feedrate": 586.74000000000001,
+                "plungerate": 293.37,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 1.5,
+            "stepover": 1.429,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.1749999999999998,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{1729a624-22dc-444a-889b-b43a51e76d9e}",
+            "vcarve": false
+        }
+    ],
+    "toolpath_links": [
+        {
+            "links": [
+                "{e02ce755-a427-4447-bf4e-b125b033747d}"
+            ],
+            "uuid": "{200c755b-de6e-4b63-8454-2c880c8ff7db}"
+        },
+        {
+            "links": [
+                "{4a5da08a-8fa1-4ae9-af3c-c19ef7697dc3}"
+            ],
+            "uuid": "{3121ec95-3e0b-4a1b-a1e9-bc701390e270}"
+        },
+        {
+            "links": [
+                "{96630ceb-c852-4774-8ce1-7b2e8e342196}"
+            ],
+            "uuid": "{47a3e325-d55d-4de8-aa35-f1a175126b00}"
+        },
+        {
+            "links": [
+                "{9957a2bc-adf6-4906-9284-459b8daff44a}"
+            ],
+            "uuid": "{4ef314b0-8e17-481d-afc2-d9e4b8d3bb9c}"
+        },
+        {
+            "links": [
+                "{0207b94f-1365-4d8f-b110-f7174e9cc03c}"
+            ],
+            "uuid": "{752a5743-2b7e-42d5-aa05-0e7865f75981}"
+        },
+        {
+            "links": [
+                "{fac427de-6bd6-43c5-ad60-91630265e753}"
+            ],
+            "uuid": "{876c0dbe-8e8d-4a47-913d-dfc8dd32ced0}"
+        },
+        {
+            "links": [
+                "{69cb0559-d95b-425a-ba59-b374c11d653f}"
+            ],
+            "uuid": "{9996db55-d729-40f3-aba4-9eff0cf800ce}"
+        },
+        {
+            "links": [
+                "{335a3f91-f587-41d6-97d5-2c9ee2db6294}"
+            ],
+            "uuid": "{b9ababc5-85f3-4eee-ae30-0d124b3b7780}"
+        },
+        {
+            "links": [
+                "{1729a624-22dc-444a-889b-b43a51e76d9e}"
+            ],
+            "uuid": "{cea340a4-fd82-4d41-9d7a-a947617f9ced}"
+        },
+        {
+            "links": [
+                "{412e6498-a9f6-4785-8c77-e3fa0bf05d46}"
+            ],
+            "uuid": "{d4ed5b06-d421-44f0-8608-9e0e86f472a2}"
+        },
+        {
+            "links": [
+                "{f15fb335-b2f4-4c47-99c6-dd982b8b3ff6}"
+            ],
+            "uuid": "{f38f7fe6-c4b7-41ac-a3c0-9cc5de969805}"
+        },
+        {
+            "links": [
+                "{7f9d4dd0-f4d1-4933-8dd1-889ce98d2dd4}"
+            ],
+            "uuid": "{fa672a1c-1535-4984-bf94-7cc1d53a08c3}"
+        }
+    ]
+}
